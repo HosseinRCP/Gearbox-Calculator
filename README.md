@@ -2,6 +2,7 @@ Gearbox Calculator
 
 A gearbox ratio calculation tool designed for automotive enthusiasts, with specialized support for Iranian vehicles and custom gearbox configurations.
 Features
+
 1. Gear Ratio Calculator
 Calculate and determine gearbox ratios using different combinations of known parameters:
 
