@@ -1,4 +1,4 @@
-images/SS.png
+![Screenshot](images/SS.png)
 
 Gearbox Calculator
 
