@@ -13,9 +13,11 @@ Calculate and determine gearbox ratios using different combinations of known par
     • Speed + Gear Ratio → RPM: Calculate engine RPM based on vehicle speed and gear ratio.
 
 3. Missing Gear Ratio Finder
+
     Estimate an unknown gear ratio using available vehicle speed and engine RPM data.
 
-4. Custom Gearbox Builder
+5. Custom Gearbox Builder
+
     A dedicated feature for Iranian vehicles that allows users to build and customize gearboxes using available gear ratios from different Iranian cars.
     Users can select and combine available gear ratios to create custom gearbox configurations.
     Project Goals:
