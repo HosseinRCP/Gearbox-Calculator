@@ -17,19 +17,23 @@ Estimate an unknown gear ratio using available vehicle speed and engine RPM data
 4. Custom Gearbox Builder
 A dedicated feature for Iranian vehicles that allows users to build and customize gearboxes using available gear ratios from different Iranian cars.
 Users can select and combine available gear ratios to create custom gearbox configurations.
-Project Goals
+    Project Goals:
 
-    • Simplify gearbox ratio calculations.
+        • Simplify gearbox ratio calculations.
    
-    • Help automotive enthusiasts understand transmission behavior.
+        • Help automotive enthusiasts understand transmission behavior.
    
-    • Provide tools for designing custom gearboxes.
+        • Provide tools for designing custom gearboxes.
    
-    • Make gearbox customization more accessible for Iranian car enthusiasts.
-   
-Target Audience
-    • Automotive enthusiasts
-    • Car tuning enthusiasts
-    • Mechanics and transmission specialists
-    • People interested in custom gearbox configurations
+        • Make gearbox customization more accessible for Iranian car enthusiasts.
+
+    Target Audience
+
+        • Automotive enthusiasts
+
+        • Car tuning enthusiasts
+
+        • Mechanics and transmission specialists
+
+        • People interested in custom gearbox configurations
 Project Status: In Development
